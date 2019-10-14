@@ -1,0 +1,7 @@
+[submodule "colin-blog/themes/hugo-coder"]
+	path = colin-blog/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "colin-blog/public"]
+	path = colin-blog/public
+	url = git@github.com:colin-riddell/colin-riddell.github.io.git
+	branch = master

@@ -1,0 +1,87 @@
+# baseURL = "https://colin-riddell.github.io"
+# languageCode = "en-gb"
+# title = "Colin Riddell"
+# theme = "pixyll"
+#
+# [params]
+#     author = "Colin Riddell"
+#     description = "Colin Riddells personal website"
+#     keywords = "blog,developer,personal"
+#     info = "Full Stack Developer - Technologist - Instructor"
+#     avatarurl = "images/mypic.jpg"
+#     footercontent = "Enter a text here."
+#
+#
+#     paginate = 20
+#     canonifyurls = true
+#
+#     pygmentsstyle = "bw"
+#     pygmentscodefences = true
+#     pygmentscodefencesguesssyntax = true
+#
+#
+#
+# # Social links
+# [[params.social]]
+#     name = "Github"
+#     icon = "fab fa-github fa-2x"
+#     weight = 1
+#     url = "https://github.com/colin-riddell/"
+#
+# [[params.social]]
+#     name = "Twitter"
+#     icon = "fab fa-twitter fa-2x"
+#     weight = 3
+#     url = "https://twitter.com/colin_riddell/"
+#
+#
+# # Menu links
+# [[menu.main]]
+#     name = "Blog"
+#     weight = 1
+#     url  = "/posts/"
+# [[menu.main]]
+#     name = "Resume"
+#     weight = 2
+#     url = "/resume"
+
+archetypeDir           = "archetypes"
+author                 = "Colin"
+baseUrl                = "https://colin-riddell.github.io"
+buildDrafts            = true
+relativeURLs           = true
+canonifyUrls           = true
+contentDir             = "content"
+languageCode           = "en-us"
+layoutDir              = "layouts"
+publishDir             = "public"
+theme                  = "pixyll"
+themesDir              = "themes"
+title                  = "Colin Riddell"
+enableEmoji            = true
+DefaultContentLanguage = "en"
+#disqusShortname        = ""
+googleAnalytics = "UA-149961187-1"
+
+[Languages]
+[Languages.en]
+weight = 1
+
+# [Languages.ru]
+# weight = 2
+
+[blackfriday]
+angledQuotes = true
+hrefTargetBlank = true
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+  resume = "resume"
+
+[params]
+  mainSections = ["post"]
+  #search_engine = false
+  #google_analytics_id = ""
+  twitter_username = "colin_riddell"
+  paginate = 5
