@@ -78,10 +78,11 @@ hrefTargetBlank = true
   category = "categories"
   tag = "tags"
   resume = "resume"
+  cv = "cv"
 
 [params]
   mainSections = ["post"]
-  #search_engine = false
-  #google_analytics_id = ""
+  # search_engine = false
+  google_analytics_id = "UA-149961187-1"
   twitter_username = "colin_riddell"
   paginate = 5

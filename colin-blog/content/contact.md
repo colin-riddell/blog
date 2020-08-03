@@ -6,4 +6,7 @@ slug = "contact"
 
 +++
 
-how to get me
+
+If you want to talk to me, I am really open to meeting new people and learning things. Please reach out..
+
+**Say hi on Twitter** [https://twitter.com/colin_riddell]( 🐦 https://twitter.com/colin_riddell)

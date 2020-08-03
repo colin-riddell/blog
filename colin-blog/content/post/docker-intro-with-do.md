@@ -8,7 +8,7 @@ tags = ["docker", "DigitalOcean", "cloud", "devops"]
 categories = []
 externalLink = ""
 series = []
-author = "Colin"
+author = "Colin Riddell"
 +++
 
 
