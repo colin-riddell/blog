@@ -1,16 +1,16 @@
 +++
 date = "2014-11-08T16:42:18+04:00"
 draft = false
-title = "Colin Riddell BSc (Hons)"
-slug = "about"
+title = "Resumè"
+slug = "cv"
 
 +++
 
+#Curriculum Vitae - Colin Riddell BSc (Hons)
 
 * **Website:** [https://colin-riddell.github.io/](https://colin-riddell.github.io)
 * **Email:** colinjohnriddell[at]gmail.com
 * **GitHub:** [https://github.com/colin-riddell](https://github.com/colin-riddell)
-* **Twitter:** [https://twitter.com/colin_riddell](https://twitter.com/colin_riddell)
 * **Residence:** Falkirk, United Kingdom
 * **Academic Education:** Software Engineering (BSc) **2:1** (Stirling University 2004 - 2008)
 
@@ -18,16 +18,16 @@ slug = "about"
 
 An experienced, disciplined and formally trained (BSc) Software Engineer, Architect and Technical Product Manager with **10+** years experience across a very diverse range of sectors and technological disciplines.
 
-Bringing an infectious enthusiasm for Software Engineering disciplines, technologies and entrepreneurial Product Management to teams. Proven track record of solving problems with understated, simple solutions. Can design systems that are robust and fit for purpose while making the correct technology choices along the way. Proven ability to easily adapt to learning required languages / frameworks and a default "bring the whole team" attitude.
+Bringing an infectious enthusiasm for technologies,  Software Engineering disciplines and entrepreneurial Product Management to teams. Proven track record of solving problems with understated, simple solutions. Can design systems that are robust and fit for purpose while making the correct technology choices along the way. Proven ability to easily adapt to learning required languages / frameworks and a default "bring the whole team" attitude.
 
 Has the ability to manage and coach individuals and teams to become the best they can be and deliver a product that exceeds expectations.
 
 
 ## Technologies 💡
 
-**Currently proficient with**: [Java](https://www.java.com/), [Spring](https://spring.io), [Spring Boot](https://spring.io/projects/spring-boot), [JPA](https://spring.io/guides/gs/accessing-data-jpa/), [Hibernate](https://hibernate.org/), [SQL](https://www.postgresql.org/), [React](https://reactjs.org/), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/), [Kubernetes](https://kubernetes.io/), Linux, Microservices, [ReST](https://restfulapi.net/), [SocketIO](https://socket.io/), [RabbitMQ](https://www.rabbitmq.com/), [BASH/zsh](https://www.gnu.org/software/bash/), [BDD / Cucumber](https://cucumber.io/docs/gherkin/reference/), TDD, [Google Cloud](https://cloud.google.com/), [Git](https://git-scm.com/), Markdown, [GitHub](https://github.com/), [CI/CD(Travis and Jenkins)](https://travis-ci.com/)
+**Currently proficient with**: [Java](https://www.java.com/), [Spring](https://spring.io), [Spring Boot](https://spring.io/projects/spring-boot), [JPA](https://spring.io/guides/gs/accessing-data-jpa/), [Hibernate](https://hibernate.org/), [SQL](https://www.postgresql.org/), [React](https://reactjs.org/), [Redux(toolkit)](https://redux-toolkit.js.org/), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/), [Kubernetes](https://kubernetes.io/), Linux, Microservices, [ReST](https://restfulapi.net/), [SocketIO](https://socket.io/), [RabbitMQ](https://www.rabbitmq.com/), [BASH/zsh](https://www.gnu.org/software/bash/), [BDD / Cucumber](https://cucumber.io/docs/gherkin/reference/), TDD, [Google Cloud](https://cloud.google.com/), [Git](https://git-scm.com/), Markdown, [GitHub](https://github.com/), [CI/CD(Travis and Jenkins)](https://travis-ci.com/)
 
-**Currently skilling up**: [Event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html), [RxJava](https://github.com/ReactiveX/RxJava), [RxJS](https://github.com/ReactiveX/rxjs), [Kafka](https://kafka.apache.org/), [Spark](https://spark.apache.org/), [Helm (k8s)](https://helm.sh/), [Graal](https://www.graalvm.org/), [Scala](https://www.scala-lang.org/), [AWS](https://aws.amazon.com/), [Redux](https://redux.js.org/), Serverless, [Micronaut](https://micronaut.io/), CSS
+**Currently skilling up**: [Event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html), [RxJava](https://github.com/ReactiveX/RxJava), [RxJS](https://github.com/ReactiveX/rxjs), [Kafka](https://kafka.apache.org/), [Spark](https://spark.apache.org/), [Helm (k8s)](https://helm.sh/), [Graal](https://www.graalvm.org/), [Scala](https://www.scala-lang.org/), [AWS](https://aws.amazon.com/), [Redux](https://redux.js.org/), Serverless, [Quarkus](https://quarkus.io), [Micronaut](https://micronaut.io/), CSS
 
 **Have worked with in the past**: [Python](https://www.python.org/), [Flask](https://flask.palletsprojects.com/), [C](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf), [C++](https://isocpp.org/), [OpenCL](https://www.khronos.org/opencl/), [LLVM](http://llvm.org/), [Protobuf](https://developers.google.com/protocol-buffers), [Grafana](https://grafana.com/)
 
@@ -70,7 +70,7 @@ Technical Product Manager for ResDiary. ResDiary is a SaaS restaurant booking an
 * Improvements to company culture with knowledge sharing talks, focus on learning and collaboration
 
 
-###Senient Systems
+### Senient Systems
 #### Software Engineer: *May 2015 ➜ June 2016*
 
 Developing software infrastructure for products at early startup company Senient Systems. The product was a cutting edge server design for higher density cost-effective data centre compute and storage.
@@ -90,7 +90,7 @@ Codeplay are a specialist software company who build compiler technologies for a
 
 Outside of software and technology I like cooking, running, electric vehicles, gaming on PC + tabletop, travel, socialising and entertaining, fintech, banking and trading.
 
-Outside of work I also hobby in programming. More recent hack-pet-projects include:
+Outside of work I also hobby in programming. More recent programming projects:
 
 * **[Caol](https://www.npmjs.com/package/caol)** An entire back-end-as-a-service system that allows users(developers) to easily push and pull data through a simple client. Written with **Java**, **Spring** **JavaScript**. Also using **Kubernetes**, **Micronaut**, **Grafana**. (🔒ask for repo access)
 * **[Lights Control](https://github.com/colin-riddell/simple_lights_watch)** A small app for fitbit that controls Hue lighting in the home. For this I modded together my own mini react-like framework as the SDK is very limiting.

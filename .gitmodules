@@ -5,3 +5,6 @@
 	path = colin-blog/public
 	url = git@github.com:colin-riddell/colin-riddell.github.io.git
 	branch = master
+[submodule "colin-blog/colin-riddell.github.io"]
+	path = colin-blog/colin-riddell.github.io
+	url = git@github.com:colin-riddell/colin-riddell.github.io.git
