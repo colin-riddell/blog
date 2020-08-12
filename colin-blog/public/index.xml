@@ -1,0 +1,76 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on Colin Riddell </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://colin-riddell.github.io/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 24 Sep 2019 18:38:07 BST</updated>
+    
+    <item>
+      <title>Full Stack Curry #1: The Problem</title>
+      <link>https://colin-riddell.github.io/post/full-stack-curry-part-1/</link>
+      <pubDate>Mon, 10 Aug 2020 19:04:15 BST</pubDate>
+      
+      <guid>https://colin-riddell.github.io/post/full-stack-curry-part-1/</guid>
+      <description>This is part 1 in a series of posts. In this series I am going to explain how I created a full-stack curry ordering app&amp;rsquo;. Yes, you heard that correctly. I built and deployed into production a curry ordering app that allows people to order curry online. The project was inspired by the lovely team over at #hardeepisyourcurry
+I&amp;rsquo;m going to share how I did it in as much detail as possible, while highlighting the learning curves and problems that I faced along the way.</description>
+    </item>
+    
+    <item>
+      <title>Sharing dependencies between Spring Boot Microservices with Maven</title>
+      <link>https://colin-riddell.github.io/post/sharing-dependencies-between-microservices/</link>
+      <pubDate>Tue, 21 Apr 2020 11:29:11 BST</pubDate>
+      
+      <guid>https://colin-riddell.github.io/post/sharing-dependencies-between-microservices/</guid>
+      <description>Sharing dependencies between Spring Boot Microservices and projects with Maven for better code-reuse and clean design
+What&amp;rsquo;s the problem You&amp;rsquo;re looking at microservices, but you realise you want to send an object from one service to the other. You write a class, and then you copy and paste it from the code of one service to the other &amp;hellip; 💡 there must be a better way to do this. You&amp;rsquo;re a good engineer and you know that copying around this POJO is bad practice.</description>
+    </item>
+    
+    <item>
+      <title>Starting With Scala</title>
+      <link>https://colin-riddell.github.io/post/starting-with-scala/</link>
+      <pubDate>Tue, 24 Sep 2019 21:52:10 BST</pubDate>
+      
+      <guid>https://colin-riddell.github.io/post/starting-with-scala/</guid>
+      <description>Scala is a functional programming language.
+For years, I&amp;rsquo;ve always shied away from functional programming languages. I&amp;rsquo;ve done that because I always thought they were only really used by hard-core academic computer scientists to make themselves sound intelligent in front of others.
+I&amp;rsquo;ve found out recently there are some really fun and powerful things to be learned from functional languages, such as Scala. They&amp;rsquo;re fast, good for asynchronous operations, have low latency and because of that they are becoming more prevalent and sought after to meet the real-time, low-latency demands of today.</description>
+    </item>
+    
+    <item>
+      <title>Deploying to Cloud with DigitalOcean &#43; Docker</title>
+      <link>https://colin-riddell.github.io/post/docker-intro-with-do/</link>
+      <pubDate>Thu, 19 Sep 2019 18:19:14 BST</pubDate>
+      
+      <guid>https://colin-riddell.github.io/post/docker-intro-with-do/</guid>
+      <description>Containerization allows development teams to move fast, deploy software efficiently, and operate at an unprecedented scale.
+ They are small They are fast They consume no more engergy than running an application They take up 100&amp;rsquo;s of times less space and memory than virtual machines  Setup Optional Get a DO account https://m.do.co/c/e224d565e5ec - this link gives 100 USD credit.
+Install Docker - do before starting Docker Download - Mac</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://colin-riddell.github.io/contact/</link>
+      <pubDate>Sat, 08 Nov 2014 16:42:18 &#43;0400</pubDate>
+      
+      <guid>https://colin-riddell.github.io/contact/</guid>
+      <description>If you want to talk to me, I am really open to meeting new people and learning things. Please reach out..
+Say hi on Twitter https://twitter.com/colin_riddell</description>
+    </item>
+    
+    <item>
+      <title>Resumè</title>
+      <link>https://colin-riddell.github.io/cv/</link>
+      <pubDate>Sat, 08 Nov 2014 16:42:18 &#43;0400</pubDate>
+      
+      <guid>https://colin-riddell.github.io/cv/</guid>
+      <description>#Curriculum Vitae - Colin Riddell BSc (Hons)
+ Website: https://colin-riddell.github.io/ Email: colinjohnriddell[at]gmail.com GitHub: https://github.com/colin-riddell Residence: Falkirk, United Kingdom Academic Education: Software Engineering (BSc) 2:1 (Stirling University 2004 - 2008)  Software Engineer and Technologist An experienced, disciplined and formally trained (BSc) Software Engineer, Architect and Technical Product Manager with 10+ years experience across a very diverse range of sectors and technological disciplines.
+Bringing an infectious enthusiasm for technologies, Software Engineering disciplines and entrepreneurial Product Management to teams.</description>
+    </item>
+    
+  </channel>
+</rss>
+

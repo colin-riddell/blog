@@ -8,3 +8,7 @@
 [submodule "colin-blog/colin-riddell.github.io"]
 	path = colin-blog/colin-riddell.github.io
 	url = git@github.com:colin-riddell/colin-riddell.github.io.git
+[submodule "colin-blog/--name"]
+	path = colin-blog/--name
+	url = git@github.com:colin-riddell/colin-riddell.github.io.git
+	branch = master
